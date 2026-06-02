@@ -1,4 +1,4 @@
-# 
+# Código aberto OBS Studio extensões para Mac OS | Turbo OBS Studio extensões para PC Windows. Com melhoria de voz e edição multifaixa — otimizado para máximo desempenho em cada plataforma.
 
 
 
